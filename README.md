@@ -49,5 +49,5 @@ README.md
 4. Go to http://0.0.0.0:3001/ to open the homepage
 
 ### Licensing, Authors, Acknowledgements, etc.
-    - Dataset: [Figure Eight](https://appen.com/)
+    - Dataset: [Figure Eight]
     - Udacity for starter code for the web app. 
